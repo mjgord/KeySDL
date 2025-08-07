@@ -1,0 +1,6 @@
+name: KeySDL_env
+dependencies:
+  - python=3.12.9
+  - numpy=2.2.5
+  - pandas
+  - pytorch::pytorch=2.5.1
